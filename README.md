@@ -5,15 +5,15 @@ PowerShell-Script um auf Android Wireless zu Coden.
 Dieses Script funktioniert nach dem Konzept von: https://developer.android.com/studio/command-line/adb
 
 Anforderungen:
--PC´s Scurity Richtlinien auf RemoteSigned stehen 
+1. PC´s Scurity Richtlinien auf RemoteSigned stehen 
   (Set-ExecutionPolicy RemoteSigned) -> a eigeben um es für alle zu ändern
--Androidstudio(oder anderes Programm) mit Android Platform tools (adb muss in C:\users\[benutzer]\appdata\local\Android\Sdk\platform-tools\adb.exe liegen)
+2. Androidstudio(oder anderes Programm) mit Android Platform tools (adb muss in C:\users\[benutzer]\appdata\local\Android\Sdk\platform-tools\adb.exe liegen)
   oder die Zeile cd (Path) ändern zu dem Ordner wo die adb.exe liegt
   Download Adroid Studio: https://developer.android.com/studio
   Download adb(Platform-Tools)-!Kann auch in Adroid Studio installiert werden!: https://developer.android.com/studio/releases/platform-tools
--Handy muss schonmal verbunden worden sein
--Handy muss den Schlüssel von dem PC schon immer vertrauen
--Am besten ist Debugging auch im nur Laden Modus aktiv
+3. Handy muss schonmal verbunden worden sein
+4. Handy muss den Schlüssel von dem PC schon immer vertrauen
+5. Am besten ist Debugging auch im nur Laden Modus aktiv
 
 Ausführung:
 1. Handy mit USB anschließen
