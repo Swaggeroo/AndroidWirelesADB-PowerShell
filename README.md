@@ -1,7 +1,10 @@
 # AndroidWirrelesADB-PowerShell
 A PowerShell Script that enables wirreles coding with Android
 
-## DE:
+## English:
+**Comming Soon**
+
+## Deutsch:
 Dieses Script funktioniert nach dem Konzept von: https://developer.android.com/studio/command-line/adb
 
 ### Anforderungen:
