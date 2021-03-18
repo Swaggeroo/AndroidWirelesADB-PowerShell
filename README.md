@@ -1,6 +1,6 @@
 # AndroidWirrelesADB-PowerShell
 A PowerShell Script that enables wirreles coding with Android
-**Download:** https://github.com/Swaggeroo/AndroidWirrelesADB-PowerShell/releases/tag/v1.0
+- **Download:** https://github.com/Swaggeroo/AndroidWirrelesADB-PowerShell/releases/tag/v1.0
 
 ## English:
 **Comming Soon**
@@ -11,8 +11,8 @@ Dieses Script funktioniert nach dem Konzept von: https://developer.android.com/s
 ### Anforderungen:
 1. PC´s Scurity Richtlinien auf RemoteSigned stehen 
   (Set-ExecutionPolicy RemoteSigned) -> a eigeben um es für alle zu ändern
-2. Androidstudio(oder anderes Programm) mit Android Platform tools (adb muss in C:\users\[benutzer]\appdata\local\Android\Sdk\platform-tools\adb.exe liegen)
-  oder die Zeile cd (Path) ändern zu dem Ordner wo die adb.exe liegt
+2. Androidstudio(oder anderes Programm) mit Android Platform tools (adb muss in `C:\users\[benutzer]\appdata\local\Android\Sdk\platform-tools\adb.exe` liegen)
+  oder die Zeile `cd (Path)` im Skript ändern zu dem Ordner wo die adb.exe liegt
 3. Handy muss schonmal verbunden worden sein
 4. Handy muss den Schlüssel von dem PC schon immer vertrauen
 5. Am besten ist Debugging auch im nur Laden Modus aktiv
