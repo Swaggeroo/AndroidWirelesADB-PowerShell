@@ -14,7 +14,8 @@ Anforderungen:
 5. Am besten ist Debugging auch im nur Laden Modus aktiv
 
   - Download Adroid Studio: https://developer.android.com/studio
-  - Download adb(Platform-Tools)-!Kann auch in Adroid Studio installiert werden!: https://developer.android.com/studio/releases/platform-tools
+  - Download adb(Platform-Tools): https://developer.android.com/studio/releases/platform-tools
+    - !Kann auch in Adroid Studio installiert werden!
 
 Ausführung:
 1. Handy mit USB anschließen
