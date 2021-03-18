@@ -1,2 +1,28 @@
 # AndroidWirrelesADB-PowerShell
 A PowerShell Script that enables wirreles coding with Android
+
+PowerShell-Script um auf Android Wireless zu Coden.
+Dieses Script funktioniert nach dem Konzept von: https://developer.android.com/studio/command-line/adb
+
+Anforderungen:
+-PC´s Scurity Richtlinien auf RemoteSigned stehen 
+  (Set-ExecutionPolicy RemoteSigned) -> a eigeben um es für alle zu ändern
+-Androidstudio(oder anderes Programm) mit Android Platform tools (adb muss in C:\users\[benutzer]\appdata\local\Android\Sdk\platform-tools\adb.exe liegen)
+  oder die Zeile cd (Path) ändern zu dem Ordner wo die adb.exe liegt
+  Download Adroid Studio: https://developer.android.com/studio
+  Download adb(Platform-Tools)-!Kann auch in Adroid Studio installiert werden!: https://developer.android.com/studio/releases/platform-tools
+-Handy muss schonmal verbunden worden sein
+-Handy muss den Schlüssel von dem PC schon immer vertrauen
+-Am besten ist Debugging auch im nur Laden Modus aktiv
+
+Ausführung:
+1. Handy mit USB anschließen
+2. Script starten
+3. Warten bis es anfängt das Handy anzupingen
+4. Handy abziehen
+5. Wireless Coden
+
+Bug-Fixing:
+!!! Die Fehler das die adb nicht gestartet ist ist normal !!!
+- Device is offline -> Überprüfen ob Handy mit gleichen Netzwerk verbunden ist
+- No Devices found -> Überprüfen ob Handy schon Schlüssel von PC trusted, dann script neu starten
