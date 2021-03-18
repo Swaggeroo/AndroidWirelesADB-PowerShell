@@ -1,5 +1,5 @@
-# AndroidWirrelesADB-PowerShell
-A PowerShell Script that enables wirreles coding with Android
+# AndroidWirelesADB-PowerShell
+A PowerShell Script that enables wireles coding with Android
 - **Download:** https://github.com/Swaggeroo/AndroidWirrelesADB-PowerShell/releases/latest/download/WirrelessAndroid.ps1
 
 ## English:
