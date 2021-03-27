@@ -16,7 +16,7 @@ This script works after the concept of: https://developer.android.com/studio/com
 
   - Download Adroid Studio: https://developer.android.com/studio
   - Download adb(Platform-Tools): https://developer.android.com/studio/releases/platform-tools
-    -> **!Can also be installed in Android Studio!**
+    - **!Can also be installed in Android Studio!**
     
 ### How-To-Use:
 1. Connect smartphone via USB to your computer
