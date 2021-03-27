@@ -5,7 +5,7 @@ A PowerShell Script that enables wireles coding with Android
 ## English:
 This script works after the concept of: https://developer.android.com/studio/command-line/adb
 
-###requirements:
+### Requirements:
 1. Your computers security guidelines have to be set to RemoteSigned
     (Set-ExecutionPolicy RemoteSigned) -> Enter an 'a' to change it for everything
 2. Android Studio (or a similar program) with Android Platform tools installed (adb has to be in 'C:\users\[user]\appdata\local\Android\Sdk\platform-tools\adb.exe'
