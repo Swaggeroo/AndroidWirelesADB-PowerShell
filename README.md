@@ -1,3 +1,7 @@
+# DEPRECATED
+This is no longer needed due to native support in Android / Android Studio.
+See: https://developer.android.com/tools/adb#connect-to-a-device-over-wi-fi
+
 # AndroidWirelesADB-PowerShell
 A PowerShell Script that enables wireles coding with Android
 - **Download:** https://github.com/Swaggeroo/AndroidWirrelesADB-PowerShell/releases/latest/download/WirrelessAndroid.ps1
